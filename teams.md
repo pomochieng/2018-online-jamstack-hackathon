@@ -136,10 +136,13 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Teammates:
     - Getty Orawo (@Getty)
     - Pollet Obuya (@P.)
+    - Pollet Obuya (@achieng)
     - Peter Omondi (@pomosly)
             * Seeking Teammates: No
             * [Project URL](https://github.com/Podiihq/kids-kata.git)
             * [Project Name] Kids Kata
+
+
 
 ***
 ***
